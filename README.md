@@ -1,1 +1,1 @@
-This is the frontend of the application. It is a simple web page that allows users to input their wallet address and it lets them to connect it to their metamask. After connection, accourding to the mode, it sends etherium to the destined address.
+This is the frontend of the NetMain Wallet. It is a simple web page that allows users to input their wallet address and it lets them to connect it to their metamask. After connection, according to the mode, it sends etherium to the destined address.
